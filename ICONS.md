@@ -129,5 +129,3 @@ export default function Layout({ children }) {
     - `<FaTrash aria-label="Sil" />`
 4.  **Boyutlandırma:** İkon boyutlarını sabit tutmak için CSS sınıfları (`w-6 h-6` gibi) veya kütüphanenin `size` prop'unu kullanın.
 
----
-Rehber Sonu.

@@ -133,4 +133,3 @@ Modern dashboard tasarımlarında; bir sayfayı (örn: `/settings`) mevcut sayfa
 
 ### 5. Database & ORM Soyutlaması
 Veritabanı mantığını `src/db` altında toplamak, yarın bir gün Prisma'dan Drizzle'a (veya tam tersi) geçerken uygulamanın geri kalanını korumanı sağlar.
-```
